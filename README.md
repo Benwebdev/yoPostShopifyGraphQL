@@ -1,6 +1,10 @@
 # yoPostShopifyGraphQL
 Posting to Shopfiy Via GraphQL
 
+Install: 
+
+npm install @benline/yoPostShopifyGraphQL
+
 Usuage: 
 ``` typescript
 const results = await postShopifyGraphQL(query);
